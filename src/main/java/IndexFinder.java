@@ -19,6 +19,7 @@ public class IndexFinder {
     public int indexOfMin(int[] arr) {
         // TODO: initialize a variable to track the index of the minimum (start at 0)
 
+
         // TODO: loop from index 1 to arr.length - 1
         //       if arr[i] is strictly less than arr[your tracked index], update your tracked index
 
