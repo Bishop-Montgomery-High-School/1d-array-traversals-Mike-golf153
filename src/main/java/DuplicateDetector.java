@@ -24,9 +24,7 @@ public class DuplicateDetector {
     public boolean hasDuplicate(int[] arr) {
         // TODO: initialize a boolean flag to false
         boolean duplicate = false;
-        for (int i = 0; i < arr.length; i++) {
 
-        }
 
         // TODO: write the outer loop (i from 0 to arr.length - 2)
         int count = 0;
